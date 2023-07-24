@@ -29,7 +29,7 @@ You can install Node and NPM at https://nodejs.org and follow the instructions p
 
 ## 🤝 Contributing
 
-
+Contributions, issues, and feature requests are welcome!
 
 ## Show your support
 
