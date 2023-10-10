@@ -1,6 +1,6 @@
 # Math Magicians
 
-
+A calculator app with useful quotes
 
 ## Built With
 
