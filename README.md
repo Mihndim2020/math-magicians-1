@@ -4,7 +4,7 @@ A calculator app with useful quotes
 
 ## Built With
 
-
+- React
 
 ## Getting Started
 
