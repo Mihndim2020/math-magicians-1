@@ -1,6 +1,6 @@
 # Math Magicians
 
-A calculator app with useful quotes
+A calculator app with useful quotes build with React a JS framework.
 
 ## Built With
 
